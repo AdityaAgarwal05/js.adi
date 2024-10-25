@@ -16,7 +16,7 @@ let score2 = undefined
 
 console.log(typeof(score2)) //o/p is "undefined"
 
-let valueInNumber2 = Number(score2) //remember first letter "N" is caoital
+let valueInNumber2 = Number(score2) //remember first letter "N" is caoital 
 
 console.log(typeof valueInNumber2) //o/p is number
 

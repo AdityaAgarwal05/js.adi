@@ -4,4 +4,4 @@ console.log(gameName.__proto__); // syntax to use prototuypes of string , here o
 console.log(gameName.length) // o/p is 6
 console.log(gameName.toUpperCase() ) // o/p is ADITYA
 console.log(gameName.charAt(4) ) //o/p is y
-console.log(gameName.indexOf('t') ) //o/p is 3
+console.log(gameName.indexOf('t') ) //o/p is 3  

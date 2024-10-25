@@ -1,7 +1,7 @@
 // 2 types of datatypes in JS - 1.) primitive  2.) Non primitive(Reference)
 
 // Primitive - 7 types 
-// String , Number , Boolean , Null , Undefined , Symbol , BigInt
+// Undefined, Null, Boolean, Number,BigInt, String, Symbol
 
 //Non primitive(Reference) - 
 // Array , Objects , Functions
@@ -23,11 +23,11 @@ console.log(id===id2) //o/p is false
 
 
 //Arrays 
-const heros = ["shaktiman", "aditya" , ]
+const heros = ["shaktiman", "aditya"]
 
 //objects
 let myObj = {
-    name : Aditya
+    name : "Aditya",
     age : 21
 }
 
@@ -39,3 +39,4 @@ const myFunction = function(){
 
 
 
+myFunction();
